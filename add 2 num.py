@@ -1,0 +1,2 @@
+c=chaitu
+print(c)
